@@ -8,11 +8,12 @@ I'm currently pursuing a **Full Stack Web Development** diploma at BCIT (expecte
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: TypeScript, JavaScript, HTML5, CSS3, SQL, C#
-- **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, Tailwind CSS, EJS
+- **Languages**: TypeScript, JavaScript, HTML5, CSS3, SQL, C#, PHP
+- **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, Hono Tailwind CSS, EJS
 - **Databases**: MySQL, PostgreSQL, Supabase, Drizzle ORM, Sequelize
 - **Version Control**: Git, GitHub
 - **Deployment**: Docker, Vercel, Netlify
+- **OS**: Windows, Linux
 - **Other Skills**: RESTful APIs, WebSockets, Authentication (bcrypt), Testing (Jest)
 
 ## 💼 Projects
