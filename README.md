@@ -1,7 +1,6 @@
 # Hi, I'm Ahmed Calif 👋
 
 🎓 **Full Stack Web Development Student**  
-🌍 **Age**: 21  
 📍 **Location**: Vancouver, BC
 
 I'm currently pursuing a **Full Stack Web Development** diploma at BCIT (expected graduation in May 2025). I'm passionate about building scalable web applications and working on real-world projects. My expertise spans both front-end and back-end technologies, and I love learning new tools and languages that improve my development skills.
