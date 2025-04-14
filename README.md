@@ -10,10 +10,10 @@ I'm currently pursuing a **Full Stack Web Development** diploma at BCIT (expecte
 - **Languages**: TypeScript, JavaScript, HTML5, CSS3, SQL, C#, PHP
 - **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, Hono Tailwind CSS, EJS
 - **Databases**: MySQL, PostgreSQL, Supabase, Drizzle ORM, Sequelize
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub, J
 - **Deployment**: Docker, Vercel, Netlify
 - **OS**: Windows, Linux
-- **Other Skills**: RESTful APIs, WebSockets, Authentication (bcrypt), Testing (Jest)
+- **Other Skills**: RESTful APIs, WebSockets, Authentication (bcrypt), Testing (Jest), Jira, Trello
 
 ## 💼 Projects
 
@@ -35,9 +35,9 @@ A platform for artisans to showcase their projects and connect with other creato
 
 ## 📫 How to Reach Me
 
-- **Email**: [ahmedcalif88@gmail.com](mailto:ahmedcalif88@gmail.com)
-- **LinkedIn**: [Ahmed Calif](https://linkedin.com/in/your-linkedin)
-- **GitHub**: [AhmedCalif](https://github.com/AhmedCalif)
+- **Email**: [ahmedcalif2003@gmail.com](mailto:ahmedcalif2003@gmail.com)
+- **LinkedIn**: [ahmedcalif](https://linkedin.com/in/ahmedcalif)
+- **GitHub**: [ahmedcalif](https://github.com/AhmedCalif)
 
 I'm open to full-time opportunities, internships, and collaborations! Let's connect if you're looking for someone passionate about delivering high-quality, efficient solutions for web development projects.
 
